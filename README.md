@@ -1,6 +1,9 @@
 # password_generator
 
-A new Flutter project.
+<div>
+  <img src="assets/screenshots/screenshot-1.png" width="300" style="float:left"/>
+  <img src="assets/screenshots/screenshot-2.png" width="300" style="float:left"/>
+</div>
 
 ## Getting Started
 
